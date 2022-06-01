@@ -19,7 +19,7 @@ immutables==0.18
 importlib-metadata==4.8.3
 importlib-resources==5.4.0
 Jinja2==3.0.3
-lxml==4.8.0
+lxml==4.9.0
 MarkupSafe==2.0.1
 pydantic==1.9.1
 pyee==8.2.2
