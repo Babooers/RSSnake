@@ -21,7 +21,7 @@ importlib-resources==5.4.0
 Jinja2==3.0.3
 lxml==4.9.1
 MarkupSafe==2.0.1
-pydantic==1.9.1
+pydantic==1.9.2
 pyee==8.2.2
 pyppeteer==0.2.6
 pyquery==1.4.3
