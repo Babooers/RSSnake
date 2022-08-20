@@ -3,7 +3,7 @@ appdirs==1.4.4
 arrow==1.2.2
 async-generator==1.10
 certifi==2022.6.15
-charset-normalizer==2.1.0
+charset-normalizer==2.1.1
 contextlib2==21.6.0
 contextvars==2.4
 cssselect==1.1.0
