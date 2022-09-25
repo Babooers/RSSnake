@@ -2,7 +2,7 @@ anyio==3.6.1
 appdirs==1.4.4
 arrow==1.2.3
 async-generator==1.10
-certifi==2022.9.14
+certifi==2022.9.24
 charset-normalizer==2.1.1
 contextlib2==21.6.0
 contextvars==2.4
